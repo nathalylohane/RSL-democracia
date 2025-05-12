@@ -4,7 +4,7 @@ Este repositório apresenta um resumo executivo da pesquisa intitulada **“O re
 
 ---
 
-## Objetivo
+## Objetivo da pesquisa
 
 Investigar **como a literatura aborda o retrocesso democrático**, suas causas, metodologias utilizadas e tipos de dados empregados (subjetivos, objetivos ou mistos), com base em artigos indexados na **Web of Science** entre **2016 e 2023**.
 
